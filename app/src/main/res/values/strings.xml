@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MySubmissionPemula</string>
+    <string name="list_data">POTENSI LIST</string>
+    <string name="image_konten">Konten Gambar</string>
+    <string name="nama_konten">nama_konten</string>
+    <string name="kategori">Kategori</string>
+    <string name="tentang">TENTANG SAYA</string>
+    <string name="nama_lengkap">Nama Lengkap :</string>
+    <string name="e_mail">E-mail :</string>
+    <string name="value_nama_lengkap">Ferdi Nurul Huda</string>
+    <string name="value_email">ferdinurul@gmail.com</string>
+    <string name="deskripsi">Deskripsi :</string>
+    <string name="isi_deskripsi">isi_deskripsi</string>
+    <string name="text1">text1</string>
+    <string name="image">image</string>
+    <string name="frame">frame</string>
+    <string name="kategori_">Kategori :</string>
+    <string name="isi_kategori">isi_kategori</string>
+    <string name="potensi_title">POTENSI KABUPATEN PATI</string>
+</resources>
